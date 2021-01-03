@@ -1,0 +1,8 @@
+23:33:58.337 [TestNG] INFO  resources.base - kayitli olamayan kullanici
+23:36:02.505 [TestNG] INFO  resources.base - Driver is initialized
+23:36:02.497 [TestNG] INFO  resources.base - Driver is initialized
+23:36:02.500 [TestNG] INFO  resources.base - Driver is initialized
+23:36:16.040 [TestNG] INFO  resources.base - Navigated to Homepage
+23:36:16.168 [TestNG] INFO  resources.base - Navigated to Homepage
+23:36:17.036 [TestNG] INFO  resources.base - Navigated to Homepage
+23:36:17.100 [TestNG] INFO  resources.base - Succesfully validated title
